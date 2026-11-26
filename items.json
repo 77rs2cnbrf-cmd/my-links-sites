@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14b8c87?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80",
+      "title": "AI開発ツール",
+      "description": "最新のAI開発支援ツールで、開発効率を大幅に向上させます。",
+      "tags": ["AI", "開発", "ツール"],
+      "url": "https://example.com/ai-tool"
+    },
+    {
+      "id": 2,
+      "image": "",
+      "title": "学習プラットフォーム",
+      "description": "専門分野の学習を効率的に行えるオンラインプラットフォーム。",
+      "tags": ["学習", "教育", "オンライン"],
+      "url": "https://example.com/learning-platform"
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82030d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80",
+      "title": "デザインテンプレート",
+      "description": "プロフェッショナルなデザインテンプレート集。",
+      "tags": ["デザイン", "テンプレート", "UI"],
+      "url": "https://example.com/design-templates"
+    }
+  ],
+  "tools": [
+    {
+      "id": 1,
+      "title": "無料レポート",
+      "description": "最新の市場トレンドをまとめた無料レポート。",
+      "link": "https://example.com/free-report"
+    },
+    {
+      "id": 2,
+      "title": "限定ワークショップ",
+      "description": "特別価格で実施中の限定ワークショップ。",
+      "link": "https://example.com/limited-workshop"
+    },
+    {
+      "id": 3,
+      "title": "無料トライアル",
+      "description": "期間限定の無料トライアル版を提供中。",
+      "link": "https://example.com/free-trial"
+    },
+    {
+      "id": 4,
+      "title": "プレミアムプラン",
+      "description": "追加機能を満載したプレミアムプラン。",
+      "link": "https://example.com/premium-plan"
+    }
+  ]
+}
